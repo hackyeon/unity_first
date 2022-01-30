@@ -130,6 +130,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 474243262314717092, guid: 2895ee22b90a3ba4f9a884c6fd9a5b23, type: 3}
+      propertyPath: m_Name
+      value: ScoreText
+      objectReference: {fileID: 0}
+    - target: {fileID: 474243262955959695, guid: 2895ee22b90a3ba4f9a884c6fd9a5b23, type: 3}
+      propertyPath: m_Name
+      value: PointText
+      objectReference: {fileID: 0}
+    - target: {fileID: 474243263409687114, guid: 2895ee22b90a3ba4f9a884c6fd9a5b23, type: 3}
+      propertyPath: m_Name
+      value: PointButton
+      objectReference: {fileID: 0}
     - target: {fileID: 474243263812298210, guid: 2895ee22b90a3ba4f9a884c6fd9a5b23, type: 3}
       propertyPath: m_Pivot.x
       value: 0
